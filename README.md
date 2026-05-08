@@ -66,12 +66,6 @@ The project demonstrates concepts commonly used in:
 git clone https://github.com/your-username/advanced-honeypot-system.git
 ```
 
-## Navigate to Project Directory
-
-```bash
-cd advanced-honeypot-system
-```
-
 ## Install Dependencies
 
 ```bash
