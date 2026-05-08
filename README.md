@@ -1,4 +1,3 @@
-````markdown
 # Advanced Honeypot System
 
 An advanced cybersecurity project that simulates vulnerable network services to capture attacker activity, monitor intrusion attempts, and analyze malicious behavior through a SOC-style monitoring dashboard.
