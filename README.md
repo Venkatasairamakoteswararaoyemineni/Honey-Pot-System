@@ -58,7 +58,7 @@ The project demonstrates concepts commonly used in:
 
 ---
 
-# Installation & Setup
+# Installation
 
 ## Clone the Repository
 
