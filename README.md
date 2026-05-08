@@ -1,12 +1,12 @@
-# Advanced Honeypot System
+# Honeypot System
 
-An advanced cybersecurity project that simulates vulnerable network services to capture attacker activity, monitor intrusion attempts, and analyze malicious behavior through a SOC-style monitoring dashboard.
+A cybersecurity project that simulates vulnerable network services to capture attacker activity, monitor intrusion attempts, and analyze malicious behavior through a SOC-style monitoring dashboard.
 
 ---
 
 # Project Overview
 
-The Advanced Honeypot System is designed to demonstrate practical cybersecurity monitoring and threat intelligence concepts using Python-based socket programming and web technologies.
+The Honeypot System is designed to demonstrate practical cybersecurity monitoring and threat intelligence concepts using Python-based socket programming and web technologies.
 
 This project simulates a fake vulnerable service that attracts attackers and records malicious login attempts. The captured attack data is stored in a database and visualized through an interactive dashboard for monitoring and analysis.
 
